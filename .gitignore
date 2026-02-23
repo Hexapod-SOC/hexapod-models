@@ -2,3 +2,5 @@
 *.FCBak
 3DPrint/
 3DPrint/gcode
+*.bckp*
+*.back*
